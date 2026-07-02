@@ -9,6 +9,49 @@ You can select any source that suits your needs. It is easy to install and inclu
 > Source data is from various *anime streaming websites*. The developer doesn't have any affiliation with them. Please read [DISCLAIMER](#disclaimer)
 
 ---
+# 🌐 Socials & Community
+
+Stay connected with the AnimeTV project, updates, and community spaces.
+
+<details>
+<summary><strong>💬 Discord Community</strong></summary>
+
+Join the discussion and get support:
+
+- https://discord.gg/VGtGtRedGR  
+
+</details>
+
+<details>
+<summary><strong>📦 GitHub Repository</strong></summary>
+
+Main project source and releases:
+
+- https://github.com/amarullz/AnimeTV  
+
+</details>
+
+<details>
+<summary><strong>💖 Sponsor / Donate</strong></summary>
+
+Support the developer:
+
+- https://github.com/sponsors/amarullz  
+- https://paypal.me/amarullz  
+
+</details>
+
+<details>
+<summary><strong>📥 Releases & Builds</strong></summary>
+
+Download official and nightly builds:
+
+- https://github.com/amarullz/AnimeTV/releases  
+- https://github.com/amarullz/AnimeTV/actions  
+- https://nightly.link/amarullz/AnimeTV/workflows/nightly-build/master?preview  
+
+</details>
+---
 
 # 🚀 Features
 
