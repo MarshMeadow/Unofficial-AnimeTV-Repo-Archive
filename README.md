@@ -74,6 +74,58 @@ https://private-user-images.githubusercontent.com/1386831/423260195-dac0445a-086
 
 ---
 
+# 📦 Alternative Download Sources (App Archives & Mirrors)
+
+This section lists alternative sources and archives where AnimeTV releases may be available. These are provided for accessibility, backup, and preservation purposes.
+
+> ⚠️ Note: Always prefer official GitHub releases when possible. Third-party sources may contain outdated versions.
+
+<details>
+<summary><strong>🔗 Official Source (Recommended)</strong></summary>
+
+- https://github.com/amarullz/AnimeTV/releases
+
+</details>
+
+<details>
+<summary><strong>📁 Community Mirrors & Backup Sources</strong></summary>
+
+- APKMirror — https://www.apkmirror.com  
+- APKPure — https://apkpure.com  
+- Uptodown — https://uptodown.com  
+- Aptoide — https://en.aptoide.com  
+
+</details>
+
+<details>
+<summary><strong>🗄️ Open-Source App Archives</strong></summary>
+
+- F-Droid — https://f-droid.org  
+- IzzyOnDroid Repository — https://apt.izzysoft.de/fdroid  
+- Internet Archive — https://archive.org  
+
+</details>
+
+<details>
+<summary><strong>📺 TV / Sideload Tools (Optional)</strong></summary>
+
+- Downloader (Fire TV / Android TV)
+- ADB (Android Debug Bridge)
+- Sideload Launcher (Android TV)
+
+</details>
+
+<details>
+<summary><strong>🧠 Notes</strong></summary>
+
+- Some sources may host older builds.
+- Always verify files when possible.
+- Availability may vary by region or over time.
+
+</details>
+
+---
+
 # 📚 Additional Resources
 
 ## 🔗 Official Project
